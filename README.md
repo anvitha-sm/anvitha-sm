@@ -1,6 +1,4 @@
-# Anvitha Mattapalli ☆ Computer Science and Artificial Intelligence
-
-Second-year computer science student @ UCLA. 
+# Anvitha Mattapalli ☆ CS @ UCLA ☆ AI/ML Researcher and Intern
 
 ## Tech Stack ☆ ☆
 Languages: Python, C++, Java, React, JavaScript, Bash, SQL, R

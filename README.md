@@ -1,5 +1,5 @@
 # Anvitha Mattapalli ☆ 
-CS @ UCLA ☆ AI/ML Researcher and Intern
+CS @ UCLA ☆ AI/ML Researcher and Intern. Currently working on an in-chat AI-powered iMessage assistant and smart pet-cam software.
 
 ## Tech Stack ☆ ☆
 Languages: Python, C++, Java, React, JavaScript, Bash, SQL, R
